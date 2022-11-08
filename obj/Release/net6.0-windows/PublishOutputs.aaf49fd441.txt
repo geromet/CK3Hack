@@ -1,0 +1,7 @@
+D:\Repositories\CK3Hack\bin\publish\CK3Hack.exe
+D:\Repositories\CK3Hack\bin\publish\CK3Hack.dll
+D:\Repositories\CK3Hack\bin\publish\CK3Hack.deps.json
+D:\Repositories\CK3Hack\bin\publish\CK3Hack.runtimeconfig.json
+D:\Repositories\CK3Hack\bin\publish\CK3Hack.dll.config
+D:\Repositories\CK3Hack\bin\publish\CK3Hack.pdb
+D:\Repositories\CK3Hack\bin\publish\Newtonsoft.Json.dll

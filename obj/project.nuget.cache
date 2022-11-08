@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gh5OJFAkfmgMG61TJbFkVOkP5RZ5NhhcxJT+lmAjGHWiwN3KVpyYRMJ/0VRg9w18I2sYiJFdsl0Vow7DIc/EfQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repositories\\CK3Hack\\CK3Hack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerom\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
